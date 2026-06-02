@@ -118,38 +118,6 @@ The trained model is deployed as a Flask web application, enabling real-time pre
     └── index.html
 ```
 
----
-
-## Installation Steps
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/38832/Fake-Job-Posting-Prediction.git
-cd Fake-Job-Posting-Prediction
-```
-
-### 2. Create a Virtual Environment (Optional but Recommended)
-```bash
-python -m venv venv
-# Activate the virtual environment:
-# On macOS/Linux:
-source venv/bin/activate
-# On Windows:
-venv\Scripts\activate
-```
-
-### 3. Install the Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Application
-```bash
-python app.py
-```
-The Flask application will start and can be accessed at `http://127.0.0.1:5000/`.
-
----
 
 ## Conclusion
 This project demonstrates an effective approach to detect fraudulent job postings using deep learning. With an impressive accuracy of **98%**, it provides a reliable solution to mitigate job fraud risks. The integration of advanced data preprocessing techniques, robust model training, and seamless deployment underscores its practical application in real-world scenarios.
