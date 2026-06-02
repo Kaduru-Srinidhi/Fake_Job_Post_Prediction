@@ -4,4 +4,3 @@ tensorflow
 scikit-learn
 numpy
 pandas
-gunicorn
