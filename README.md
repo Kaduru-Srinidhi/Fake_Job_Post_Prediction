@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fake Job Posting Prediction
 
 
@@ -158,3 +159,6 @@ This project demonstrates an effective approach to detect fraudulent job posting
 This project **does not** have a license.
 
 *Feel free to contribute or reach out for any improvements!*
+=======
+# Fake_Job_Post_Prediction
+>>>>>>> fc4e7346436cae3a0900a56cc33283233d3cc3c2
